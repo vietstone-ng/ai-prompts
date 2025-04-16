@@ -1,3 +1,6 @@
+My working prompt:
+- It's ok to start now, but the context is already quite long. Let's continue in a new chat. Give me the continuation prompt, the I will give you to continue the work in the new chat.
+
 Simple:
 - We need a continuation prompt. Very briefly summarize the next steps so that they can be used as a starting point for a new thread.
 
